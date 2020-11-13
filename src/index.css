@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Quicksand', sans-serif;
+  color: #28FFB2;
+  -webkit-user-drag: none;
+  text-decoration: none;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #101824;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*::-webkit-scrollbar {
+  appearance: none;
+  width: 10px;
+  background-color: 101824;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #1A2434;
+  border-radius: 10px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #2a384e;
+}
+
+@media (max-width:753px) {
+  *::-webkit-scrollbar {
+    display:none;
+  }
+}
