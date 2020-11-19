@@ -8,6 +8,8 @@
 - Login with Google and Twitter.
 - See what your friends are typing even before they send the message.
 
+<br>
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
