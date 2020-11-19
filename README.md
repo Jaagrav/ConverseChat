@@ -1,3 +1,13 @@
+# Converse
+![Converse Mockup](https://dev-to-uploads.s3.amazonaws.com/i/5s9k5e9o4u6ydk5ytk2f.png)
+
+### Live at https://conversechatv2.netlify.app/
+
+## Features
+- Chat personally with your friends.
+- Login with Google and Twitter.
+- See what your friends are typing even before they send the message.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
